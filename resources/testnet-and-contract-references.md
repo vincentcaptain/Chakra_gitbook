@@ -1,0 +1,26 @@
+# Testnet and Contract References
+
+## The ChakraScan Address
+
+{% embed url="https://explorer-dn.chakrachain.io/" %}
+
+## Chakra Settlement Layer Testnet ChainID
+
+**8545**
+
+## RPC Address
+
+[https://rpcv1-dn-1.chakrachain.io/](https://rpcv1-dn-1.chakrachain.io/)\
+Note: Please access it using `POST` or `OPTIONS`
+
+## Currency Symbol
+
+`CKR`
+
+## Token Faucet
+
+## Integrated Chain (In Progress)
+
+
+
+<table><thead><tr><th width="171" align="center">Chain Name</th><th width="111" align="center">ChainID</th><th width="254" align="center">Blockchain Explorer</th><th width="261" align="center">Settlement Contract Address</th><th align="center">Language </th></tr></thead><tbody><tr><td align="center">Arbitrum sepolia</td><td align="center">421614</td><td align="center"><a href="https://sepolia.arbiscan.io/">https://sepolia.arbiscan.io/</a></td><td align="center">0xd56A32F635427287861Da716A442CfA7834e9463</td><td align="center">Solidity</td></tr><tr><td align="center">Scroll sepolia</td><td align="center">534351</td><td align="center"><a href="https://sepolia.scrollscan.com">https://sepolia.scrollscan.com</a></td><td align="center">0x79e1aE54C912802a353277c3A1bE6d5f8Bbfa610</td><td align="center">Solidity</td></tr><tr><td align="center">Starknet sepolia</td><td align="center">sn_sepolia</td><td align="center"><a href="https://voyager.online/">https://voyager.online/</a></td><td align="center">0x078fd52298f4301c24ac95518d4ba068a59f6cf67721bf198933a41ea40c1dd2</td><td align="center">Cairo</td></tr></tbody></table>
