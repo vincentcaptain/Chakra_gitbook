@@ -379,10 +379,3 @@ You can verify the results via:&#x20;
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-## What's Next
-
-| > Learn how to implement BTC-derivative asset implementation |
-| ------------------------------------------------------------ |
-| > How to inject liquidity to Chakra                          |
-| #>                                                           |
-
